@@ -1,1 +1,1 @@
-Merhaba bash dile ile yazılmış olan bir sayı tahmin oyunu.
+sudo su bash ErrOr.sh
